@@ -4,7 +4,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let x;
+    let x: Vec<char>;
     if x == 10 {
         println!("Ten!");
     } else {
